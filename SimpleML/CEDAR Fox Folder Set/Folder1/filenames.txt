@@ -1,0 +1,3 @@
+0370b_num1.png 0539c_num2.png
+0641c_num2.png 0641b_num1.png
+0383a_num3.png 0383c_num1.png

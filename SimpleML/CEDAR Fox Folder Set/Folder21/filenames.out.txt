@@ -1,0 +1,3 @@
+Filename1 Filename2 : Final	ACharSP	ACharDP	ACharSP-ACharDP	WCharSP	WCharDP	WCharSP-WCharDP	CharSP	CharDP	CharSP-CharDP	MacSP	MacDP	MacSP-MacDP	BigramSP	BigramDP	BigramSP-DP	WordSP-DP	LexSP	LexDP	LexSP-DP	LLR_th
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+0744b_num2.png 0744c_num4.png : -5.64	0.00	0.00	0.00		0.00	0.00	0.00		0.00	0.00	0.00		-2.04	3.60	-5.64		0.00	0.00	0.00		0.00		0.00	0.00	0.00	0.00

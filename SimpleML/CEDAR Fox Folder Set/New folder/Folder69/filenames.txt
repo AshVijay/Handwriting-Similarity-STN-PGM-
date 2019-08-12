@@ -1,0 +1,3 @@
+999bb_num1.png 0999a_num4.png
+1042a_num1.png 1042b_num2.png
+0670c_num1.png 0634c_num3.png

@@ -1,0 +1,3 @@
+0302b_num1.png 0284c_num1.png
+0071b_num3.png 0129b_num1.png
+0804c_num2.png 0804a_num3.png

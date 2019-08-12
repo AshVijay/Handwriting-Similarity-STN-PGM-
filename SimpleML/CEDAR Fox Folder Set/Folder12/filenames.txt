@@ -1,0 +1,3 @@
+0008a_num1.png 0008c_num1.png
+1019a_num2.png 1121b_num1.png
+0632c_num1.png 0661a_num1.png
